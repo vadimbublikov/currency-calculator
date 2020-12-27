@@ -1,0 +1,8 @@
+.currencies-list .list-group-item {
+    cursor: pointer;
+}
+
+.currencies-list .list-group-item:hover {
+    background-color: #ddd;
+    color: black;
+}
